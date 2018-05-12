@@ -1,0 +1,37 @@
+_repo: There-is-No-Harm-in-Dancing_14183
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Penn, W. E.
+    alias: Penn, William Evander
+    birthdate: 1832
+    deathdate: 1895
+    gutenberg_agent_id: '5398'
+    url: http://www.gutenberg.org/2009/agents/5398
+    wikipedia: http://en.wikipedia.org/wiki/William_Evander_Penn
+description: The basic premise in this antidance treatise is typical of this genre
+  of dance literature; namely, dance is bad for the health and is a waste of money.
+  The author utilizes a novel approach and uses trees as metaphors to support his
+  arguments. Some trees are "not comely to look upon, but the fruit very good." Other
+  trees have dangerous fruit, and the author concludes that samples of the fruit found
+  on the tree of dancing include "pride, lasciviousness, lying, drunkenness, embezzlement,
+  fornication, cruelty, idolatry, prostitution, abortion, and assassination." The
+  manual was reissued in 1886 as The upas tree.
+gutenberg_issued: '2004-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14183'
+  lccn: ca07006255
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antidance Literature'
+- !lcsh 'Dance -- Moral and ethical aspects'
+- !lcc 'GV'
+title: There is No Harm in Dancing
+url: http://www.gutenberg.org/ebooks/14183
